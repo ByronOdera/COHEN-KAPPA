@@ -6,6 +6,10 @@
 
 --INSERT INTO Assessments (ID,ItemID,Rater1,Rater2)
 --VALUES
+--(1,101,'A','A')
+--(2,102,'B','A')
+--(3,103,'A','B')
+--(4,104,'B','B')
 --(5,105,'A','A')
 
 --SELECT * FROM Assessments
